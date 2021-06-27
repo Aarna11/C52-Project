@@ -1,0 +1,15 @@
+.project{
+    border:solid;
+    background-color:#f82a2a;
+    margin:20px;
+    position:absolute;
+    text-decoration: none;
+}
+.projects{
+    display:flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.project :hover p{
+opacity:0
+}
